@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Balney";
+  src: url("../assets/balney-font-1742554066-0/Balney-Demo-BF677e2f98bd0ee.otf")
+    format(opentype);
+  font-weight: normal;
+  font-size: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  font-size: 62.5%; /* 1rem = 10px */
+}
+
+body {
+  background-color: #202020;
+  color: white;
+  overflow: hidden;
+}

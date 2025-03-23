@@ -1,0 +1,30 @@
+.MenuTools {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+#task-input {
+  border: none;
+  outline: none;
+  background: none;
+  background-color: #303030;
+  color: white;
+  height: 5rem;
+  width: 30rem;
+  padding: 1rem 2rem;
+  font-size: 2rem;
+  border-radius: 2rem 0 0 2rem;
+}
+
+#task-add-button {
+  width: 10rem;
+  border: none;
+  outline: none;
+  background: none;
+  background-color: white;
+  border-radius: 0 2rem 2rem 0;
+  font-size: 3rem;
+  font-family: "Balney", sans-serif;
+}

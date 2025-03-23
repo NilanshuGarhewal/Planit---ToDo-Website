@@ -1,0 +1,16 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+#my-name {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#my-name > a {
+    color: #ff6200;
+}
